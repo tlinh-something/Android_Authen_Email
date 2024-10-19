@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096335381296",
+    "project_id": "linhse171620",
+    "storage_bucket": "linhse171620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096335381296:android:a3ee549e4213b3700a6ef5",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuXrK-AJuYPzZQeU5rakGNVDoX9n3-r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
